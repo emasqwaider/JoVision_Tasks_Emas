@@ -7,7 +7,7 @@ function CurrDate() {
 
     let now = new Date();
 
-    let h = now.getUTCHours()-9;
+    let h = now.getHours();
     let m = now.getMinutes();
     let s = now.getSeconds();
     h = h.toString().padStart(2, '0');
