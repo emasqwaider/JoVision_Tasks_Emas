@@ -1,12 +1,11 @@
-button{
-
-    border-radius:50px;
-    padding:10px 10px 10px 10px ;
-    cursor:pointer;
-    border:none;
-    display:inline-block;
-
+button {
+    border-radius: 50px;
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+    border: none;
+    display: inline-block;
 }
+
 p {
     font-size: 20px;
     color: black;
@@ -18,5 +17,5 @@ body {
     color: black;
     align-items: center;
     font-family: 'Calibri';
-    padding-block-start:20px;
+    padding-block-start: 20px;
 }
